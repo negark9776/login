@@ -482,6 +482,7 @@ input:focus,button:focus,a:focus{
 .auth_section .footer-links .footer-link-item{
     color: #959494;
     font-size: 13px;
+    padding: 7px;
 }
 .auth_section .footer-copy-right .footer-text-copy-right{
     font-size: 13px;
@@ -495,7 +496,6 @@ input:focus,button:focus,a:focus{
 }
 .auth_section .footer-links a:hover{
     background-color: #b0b0b0;
-    padding: 7px;
     border-radius: 7px;
     color: white;
 }
